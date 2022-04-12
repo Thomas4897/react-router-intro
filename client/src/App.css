@@ -53,3 +53,13 @@ label{
 button{
   margin: 20px;
 }
+
+.generated-URL{
+  padding: 20px;
+  
+  font-weight: bold;
+}
+
+.contactURL{
+  height: 20px;
+}
